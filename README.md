@@ -1,16 +1,14 @@
-## Hi there 👋
+- 👋 Olá, eu sou o Cristhyan Daniel Padilha Schoenk.
+- 📜 Estudante de DESENVOLVIMENTO DE SISTEMAS do colegio Kennedy.
+- 📫 O meu conteudo favorito se trata do estudo das LInguagens de Programacao listadas abaixo.
+- 🎓 Meu hobby principal se trata de jogar video-games.
+<div align= "center">
+  
+  ### Linguagens:
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ebebeb)
+  ![CSS3](https://img.shields.io/badge/-CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white)
+ 
 
-<!--
-**cristhyanschoenk-ux/cristhyanschoenk-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Perfil destinado aos projetos realizados em sala de aula!
+</div>
